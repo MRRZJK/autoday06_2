@@ -1,0 +1,60 @@
+{
+  "uid" : "1f05e535ba90ec2f",
+  "name" : "TestLogin.test003",
+  "fullName" : "test_login1.TestLogin.test003",
+  "historyId" : "8d1d28e0541ad50132ca068236c0682",
+  "time" : {
+    "start" : 1568021813719,
+    "stop" : 1568021813721,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-ENOEK5R"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "thread",
+    "value" : "18144-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_login1"
+  }, {
+    "name" : "testClass",
+    "value" : "test_login1"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestLogin.test003"
+  }, {
+    "name" : "package",
+    "value" : "test_login1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f05e535ba90ec2f.json",
+  "parameterValues" : [ ]
+}

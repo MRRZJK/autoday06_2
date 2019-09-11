@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-ENOEK5R",
+    "children" : [ {
+      "name" : "18144-MainThread",
+      "children" : [ {
+        "name" : "TestLogin.test003",
+        "uid" : "1f05e535ba90ec2f",
+        "parentUid" : "6eb1545d184b0e1281a554501020fae0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568021813719,
+          "stop" : 1568021813721,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestLogin.test002",
+        "uid" : "972cec1ce4f1a205",
+        "parentUid" : "6eb1545d184b0e1281a554501020fae0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568021813716,
+          "stop" : 1568021813718,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestLogin.test001",
+        "uid" : "a08162aa4d56d39f",
+        "parentUid" : "6eb1545d184b0e1281a554501020fae0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568021813710,
+          "stop" : 1568021813714,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6eb1545d184b0e1281a554501020fae0"
+    } ],
+    "uid" : "3214358ebbd4be98692528fa8b8fd385"
+  } ]
+}
